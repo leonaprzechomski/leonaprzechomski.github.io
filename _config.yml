@@ -3,21 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Viktor
+first_name: Leona
 middle_name: 
-last_name: Decker
-email: v.v.decker@uva.nl
+last_name: Przechomski
+email: przechomski@wiso.uni-koeln.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website with publications, code and all that...
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: viktor, decker, career, sociology  # add your own keywords or leave empty
+keywords: leona, przechomski, migration, discrimination, research, sociology  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://viktor-decker.github.io  # the base hostname & protocol for your site
+url: https://leonaprzechomski.github.io  # the base hostname & protocol for your site
 baseurl: /about # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -70,11 +70,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: viktor-decker # your GitHub user name
+github_username: leonaprzechomski # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: vvdecker # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Viktor Decker # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -121,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Career # blog_name will be displayed in your blog page
+blog_name: blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
 permalink: /blog/:year/:title/
@@ -269,8 +269,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Decker]
-  first_name: [Viktor, V.]
+  last_name: [Przechomski]
+  first_name: [Leona]
 
   style: apa
   locale: en
