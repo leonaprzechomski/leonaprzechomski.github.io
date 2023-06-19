@@ -2,16 +2,16 @@
 layout: about
 title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal website with publications, code and all that...
+  My personal website
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html'>University of Amsterdam</a>.
+subtitle: <a href='https://iss-wiso.uni-koeln.de/en/institut/personen/p/leona-przechomski'>University of Cologne</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='mailto: v.v.decker@uva.nl'>v.v.decker@uva.nl</a></p>
+    <p><a href='mailto: przechomski@wiso.uni-koeln.de'>przechomski@wiso.uni-koeln.de</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Sociology PhD student at University of Amsterdam. I am interested in how education affects careers on the labor market and work in a project called "From School to Career: Towards A Career Perspective on the Labor Market Returns to Education (CAREER)" where I examine just that. The project is headed by [Thijs Bol](https://thijsbol.com/). Together with our colleagues we aim to develop a better understanding of workers’ employment trajectories in the context of changing labour markets. 
+I am a Sociology PhD Student at University of Cologne. My research focuses on migration and discrimination but I am also interested in how COVID changed our society. I currently hold the [https://cgs.uni-koeln.de/en/funding/cgs-scholarships](CGS Scholarship).
 
-Check out our [website](https://careerproject.eu/) to learn more and follow us on [Twitter](https://twitter.com/CAREER_erc).
-
-To find replication files for my publications check the [repositories](https://viktor-decker.github.io/repositories/) section.
+Follow me on [Twitter](https://twitter.com/przechomski)!
