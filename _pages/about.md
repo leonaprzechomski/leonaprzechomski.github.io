@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Sociology PhD Student at University of Cologne. My research focuses on migration and discrimination but I am also interested in how COVID changed our society. I currently hold the [https://cgs.uni-koeln.de/en/funding/cgs-scholarships](CGS Scholarship).
+I am a Sociology PhD Student at University of Cologne. My research focuses on migration and discrimination but I am also interested in how COVID changed our society. I currently hold the [CGS Scholarship](https://cgs.uni-koeln.de/en/funding/cgs-scholarships).
 
 Follow me on [Twitter](https://twitter.com/przechomski)!
