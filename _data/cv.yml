@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Leona Przechomski
     - name: Languages
-      value: English, German
+      value: English, German, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Cologne, Cologne, Germany
+      year: 2022-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Topic - Examining recent changes in attitudes towards immigrants in Germany
+        - Supervisors - Eldad Davidov, Clemens Kroneberg
+    - title: M.Sc. Sociology and Social Research
+      institution: University of Cologne, Cologne, Germany
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Topic of thesis - Gender dispairites in mental health during the COVID pandemic in Germany
+        - Supervisors - Dina Maskileyson, Eldad Davidov
+    - title: B.A. Sociology
+      institution: University of Mannheim, Mannheim, Germany
+      description:
+        - Topic of thesis - Crazy analysis of parks and green things and how they impact your happiness?
+        - Supervisors - No clue!
+      
 
 - title: Experience
   type: time_table
@@ -68,10 +68,10 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Scholarships
   type: time_table
   contents:
-    - year: 1921
+    - year: ???
       items: 
         - Nobel Prize in Physics 
         - Matteucci Medal
