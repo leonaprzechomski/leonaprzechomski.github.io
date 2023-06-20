@@ -8,8 +8,6 @@ nav: true
 nav_order: 1
 ---
 
-Will this change show up and if yes, why?
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
