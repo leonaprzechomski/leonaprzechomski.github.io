@@ -3,7 +3,7 @@ layout: home
 title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website
-permalink: /
+permalink: /about/
 subtitle: <a href='https://iss-wiso.uni-koeln.de/en/institut/personen/p/leona-przechomski'>University of Cologne</a>.
 
 profile:
