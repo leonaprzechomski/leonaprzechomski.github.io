@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: about
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website
