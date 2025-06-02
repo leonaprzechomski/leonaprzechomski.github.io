@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Find replication files for all publications here.
-nav: true
+nav: false
 nav_order: 3
 ---  
   
